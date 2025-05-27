@@ -1,0 +1,12 @@
+zihanli:
+  name: Zihan Li
+  avatar: /assets/images/profile.jpg  # 照片放这个路径
+  bio: >
+    I am a graduate student at [Your University Name], working in the field of computational chemistry.
+    My research focuses on carbene nucleophilicity, reactivity descriptors, and machine learning applications in chemical space exploration.
+  location: [HongKong]
+  email: zihanli4011@gmail.com
+  github: ZihanL1
+  orcid: 0000-0001-2345-6789
+  googlescholar: https://scholar.google.com/citations?user=xxxxxxxxxx
+  linkedin: https://www.linkedin.com/in/zihanli
