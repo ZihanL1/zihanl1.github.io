@@ -23,10 +23,16 @@ author_profile: true
       The Chinese University of Hong Kong
     </p>
 
+<!-- 邮箱 -->
+    <p style="margin-top: 20px; font-size: 1em;">
+      📧 <a href="mailto:1155246974@link.cuhk.edu.hk" style="color: blue; font-weight: normal; text-decoration: underline;">1155246974@link.cuhk.edu.hk</a>
+    </p>
+
     <!-- 邮箱 -->
     <p style="margin-top: 20px; font-size: 1em;">
       📧 <a href="mailto:zihanli4011@gmail.com" style="color: blue; font-weight: normal; text-decoration: underline;">zihanli4011@gmail.com</a>
     </p>
+    
 
     <!-- 图标链接 -->
     <p style="font-size: 1.5em; margin-top: 15px;">
