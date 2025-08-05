@@ -32,7 +32,7 @@ author_profile: true
     <p style="margin-top: 20px; font-size: 1em;">
       📧 <a href="mailto:zihanli4011@gmail.com" style="color: blue; font-weight: normal; text-decoration: underline;">zihanli4011@gmail.com</a>
     </p>
-    
+
 
     <!-- 图标链接 -->
     <p style="font-size: 1.5em; margin-top: 15px;">
@@ -52,7 +52,7 @@ author_profile: true
   <div style="flex: 0 0 60%; padding: 20px; text-align: justify;">
 
     <p>
-      I am an incoming Ph.D. student in computational chemistry at the Department of Chemistry,
+      I am a Ph.D. student in computational chemistry at the Department of Chemistry,
       The Chinese University of Hong Kong, where I will be working under the supervision of
       <a href="https://xinglong-zhang.github.io" target="_blank" style="color: blue; text-decoration: underline; font-weight: normal;">Prof. Xinglong Zhang</a>.
     </p>
@@ -71,7 +71,7 @@ author_profile: true
     <h3 style="margin-top: 18px; margin-bottom: 8px; font-weight: 600; font-size: 1.2em;">Research Interests</h3>
     <ul style="margin: 0; padding-left: 0; list-style-position: inside;">
     <li>Computational tools for accelerating chemical discovery.</li>
-    <li>Machine learning for chemistry.</li>
+    <li>Machine learning for organic chemistry.</li>
     <li>Elucidating mechanisms through computational chemistry.</li>
     </ul>
 
